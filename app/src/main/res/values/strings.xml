@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstAndroid</string>
+    <string name="hello">Hello, world!!</string>
+    <string name="first">Enter first variable</string>
+    <string name="second">Enter second variable</string>
+    <string name="add">Addition</string>
+    <string name="clear">Clear</string>
+</resources>

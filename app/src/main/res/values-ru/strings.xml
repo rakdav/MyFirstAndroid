@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое первое приложение</string>
+    <string name="hello">Привет, мир!!</string>
+    <string name="first">Введите первую переменную</string>
+    <string name="second">Введите вторую переменную</string>
+    <string name="add">Сложить</string>
+    <string name="clear">Отчистить</string>
+</resources>
